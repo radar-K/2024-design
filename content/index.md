@@ -1,9 +1,10 @@
 ---
 Title: Home
-Description: This is our index page.
+Description: 
 ---
 
-Home page
+
+Här kommer början av något kul
 ==========================
 
 The source for this page is in `content/index.md`.
